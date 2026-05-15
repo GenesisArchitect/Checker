@@ -1,1 +1,1 @@
-Создатель чекера ScriptArchitector
+Minecraft Cheat Checker was created by;ScriptArchitector
